@@ -14,6 +14,11 @@ This project was made by four third year B.tech students of Banasthali Vidyapith
 
 ![s3](https://user-images.githubusercontent.com/99536793/164976471-57d9ebd0-112d-47ff-9441-2b46a0d137f1.png)
 
+![teampage](https://user-images.githubusercontent.com/77961809/166801242-eb4165a6-ec7d-4784-9a39-eca8db7a0e73.png)
+
+![contactpage](https://user-images.githubusercontent.com/77961809/166801329-e8c51435-e376-4739-9625-dc7be85b8db0.png)
+
+
 
 
 
